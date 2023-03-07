@@ -1,0 +1,54 @@
+.body{
+  background-image:nosize;
+  background-size: cover;}
+  .two{
+    height:200px ;
+    width:300px;
+    position: relative;
+    top:70%;
+    left:100px ;
+    background-color: green;
+    color: white;
+    border-radius:20px;
+    font-size: 40px;}
+    
+    .three{
+      
+       height:200px;
+       width:300px;
+       position: relative;
+       top:70%;
+       left:100px;
+       background-color: green;
+       color: white;
+       border-radius:20px;
+       font-size: 40px;
+      
+    }
+    
+    .four{
+    height:200px;
+    width:300px;
+    position: relative;
+    top:70%;
+    left:100px;
+    background-color: green;
+    color: white;
+    border-radius:20px;
+    font-size: 40px;}
+    
+    .two:hover{
+      background-color: cornsilk;
+      color:black;
+      margin:10px;
+    }
+    .three:hover{
+       background-color: cornsilk;
+       color:black;
+       margin:10px;
+    }
+    .four:hover{
+      background-color: cornsilk;
+       color:black;
+       margin:10px;
+    }
